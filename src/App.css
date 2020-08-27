@@ -1,3 +1,8 @@
 .App {
-  font-family:'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+.main-content {
+  width: 75%;
+  background-color: white;
+  margin: 0 50px;
 }

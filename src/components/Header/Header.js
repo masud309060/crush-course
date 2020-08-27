@@ -5,7 +5,7 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-            <div className="header">
+            <div className="header d-flex justify-content-around p-3">
                 <div className="header-title">
                     <h2>Online Crush Course</h2> 
                     <p>by</p>

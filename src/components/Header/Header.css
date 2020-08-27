@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    margin: 20px 200px;
+
+}
+.header-title {
+    width: 50%;
+}
+.header-img img {
+    height: 300px;
+    display: block;
+}
+.header-img {
+    margin: 10px auto;
+
+}
+.header h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+    padding: 0 20px;
+    color: #333;
+    
+}
+.header h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 3rem;
+    float: right;
+    margin: 0 2rem;
+    color: #009432;
+}
+.header p {
+    text-align: center;
+    color: #009432;
+}
+.navbar {
+    background-color: #4cd137;
+    line-height: 60px;
+    align-items: center;
+}
+.navbar a {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 600;
+    color: #222;
+}
+.navbar a:hover {
+    background-color: #009432;
+    color: whitesmoke;
+    border-radius: 5px;
+}
